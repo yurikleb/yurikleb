@@ -2,6 +2,11 @@
 
 I'm an interaction designer/researcher currently based at the the [U.Tokyo DLX Design Lab](https://www.designlab.ac/)
 
+- 🔭 I’m currently working on some "Design × Science" projects
+- 🌱 I’m currently learning to mess with computer vison stuff
+- 🙌 I’m looking to collaborate on cognition and neuroscience projects
+
+
 [yurikleb.com](http://www.yurikleb.com/)  
   
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-lightgrey?style=for-the-badge&logo=instagram&logoColor=white&color=gray" />](https://www.instagram.com/yurikleb/)
