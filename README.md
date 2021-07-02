@@ -3,7 +3,7 @@
 I'm an interaction designer/researcher currently based at the the [U.Tokyo DLX Design Lab](https://www.designlab.ac/)
 
 - 🔭 I’m currently working on some "Design × Science" projects
-- 🌱 I’m currently learning to mess with computer vison stuff
+- 🌱 I’m currently learning computer vision tools and hacks
 - 🙌 I’m looking to collaborate on cognition and neuroscience projects
 
 
