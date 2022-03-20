@@ -5,7 +5,7 @@ I'm an interaction designer/researcher currently based at the the [U.Tokyo DLX D
 - 🔭 I’m currently working on some "Design × Science" projects
 - 🌱 I’m currently learning computer vision tools and hacks
 - 🙌 I’m looking to collaborate on cognition and neuroscience projects
-- 🚵‍♂️ I try to sepnd atleast one day a week on my bike
+- 🚵‍♂️ I try to sepnd at least one day a week on my bike
 
 
 [yurikleb.com](http://www.yurikleb.com/)  
